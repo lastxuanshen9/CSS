@@ -1,0 +1,1 @@
+.item1 { grid-area: header/footer; }
